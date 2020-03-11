@@ -21,6 +21,6 @@ A simple implementation of the same chatbot above, built in [Javascript](https:/
 * Chatbot: Parul Pandey's [Medium](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e) article  
 
 ### Works Cited
-[1] Rogers, C. R. (1992). [The necessary and sufficient conditions of therapeutic personality change](https://app.shoreline.edu/dchris/psych236/Documents/Rogers.pdf). Journal of consulting and clinical psychology, 60(6), 827. 
-[2] Weizenbaum, J. (1966). [ELIZA—a computer program for the study of natural language communication between man and machine](https://dl.acm.org/doi/pdf/10.1145/365153.365168?casa_token=jUnYmfN8_7cAAAAA:s7E3nAx64YO59KjnXGkJB8Pk9l-518yJjBH4JZDv8Xbc0n2JWPDmZz3g58ux2x21wu_bkDDwSUDBug). Communications of the ACM, 9(1), 36-45.
+[1] Rogers, C. R. (1992). [The necessary and sufficient conditions of therapeutic personality change](https://app.shoreline.edu/dchris/psych236/Documents/Rogers.pdf). Journal of consulting and clinical psychology, 60(6), 827. <br>
+[2] Weizenbaum, J. (1966). [ELIZA—a computer program for the study of natural language communication between man and machine](https://dl.acm.org/doi/pdf/10.1145/365153.365168?casa_token=jUnYmfN8_7cAAAAA:s7E3nAx64YO59KjnXGkJB8Pk9l-518yJjBH4JZDv8Xbc0n2JWPDmZz3g58ux2x21wu_bkDDwSUDBug). Communications of the ACM, 9(1), 36-45.<br>
 [3] Sacks, H., Schegloff, E. A., & Jefferson, G. (1978). [A simplest systematics for the organization of turn taking for conversation](https://www.sciencedirect.com/science/article/pii/B9780126235500500082). In Studies in the organization of conversational interaction (pp. 7-55). Academic Press.
