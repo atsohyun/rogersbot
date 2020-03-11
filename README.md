@@ -11,9 +11,9 @@ As one of the earlist chatbots, Joseph Weizenbaum's [ELIZA](https://dl.acm.org/d
 I obtained the Carl Rogers transcript collection by the courtesy of the Person-Centered Association in England. With this data, one can build a chatbot by having it retrieve most likely responses to a given input, or having it generate from bottom up. As the generative model still has a far more way to go, I built a simple retrieval-based chatbot.
 
 ### Design
-* Python
+* Python <br>
    I referred to a [Medium](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e) article to build a simple chatbot and prepared a pool of chatbot responses from therapist utterances in the transcript data. The chatbot simply asks the user to describe an event that caused a significant emotional setback and asks the user to reflect on it by relating it to close relationships and course of life. Of course the chatbot does not understand anything about the context so its responses often break the flow. I find that a question is a powerful tool to define and lead a conversation [3].
-* Javascript
+* Javascript <br>
    A simple implementation of the same chatbot above, built in [Javascript](https://jsfiddle.net/spark7356/7um30ek6/132/). Here the bot only responds in the pool of designated pre-defined answers. 
 
 ### Acknowledgement
